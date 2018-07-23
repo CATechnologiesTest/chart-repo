@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ./incubator
+cd ./stable
 
 CHART_PATH=../../agent/helm/freshtracks-agent
 
