@@ -3,12 +3,12 @@ entries:
   freshtracks-agent:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-07-26T16:48:25.213426011Z
+    created: 2018-07-26T19:40:15.376705695Z
     description: Agentry to ship your Kubernetes infrastructure and application metrics
       to FreshTracks.io!
-    digest: 3402f74046005e4f2c88788e419cb0e92d41fb3fd4ca338edc15ebe2aaae1b36
+    digest: c2e95b33c026663d95bc3b8a230d177b8f0647fca9435339e6c5290bfde4f10d
     name: freshtracks-agent
     urls:
     - freshtracks-agent-0.1.0.tgz
     version: 0.1.0
-generated: 2018-07-26T16:48:25.212339007Z
+generated: 2018-07-26T19:40:15.376147029Z
